@@ -27,7 +27,7 @@ cv_satellite_project/
 ### Clone the repository:
 
 ```
-git clone https://github.com/your-username/cv_satellite_project.git
+git clone https://github.com/samar450/satellite-object-detection.git
 cd cv_satellite_project
 ```
 
