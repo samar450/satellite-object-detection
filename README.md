@@ -6,12 +6,12 @@ This project uses a custom-trained YOLOv8 model to detect multiple classes of ob
 
 ```
 cv_satellite_project/
-🔘 app.py                  
-🔘 best.pt                 
-🔘 requirements.txt        
-🔘 README.md               
-🔘 notebooks/
-🔘 yolov8_training_pipeline.ipynb  # Training pipeline notebook
+  app.py                  
+  best.pt                 
+  requirements.txt        
+  README.md               
+  notebooks/
+    yolov8_training_pipeline.ipynb  # Training pipeline notebook
 ```
 
 ## Features
@@ -22,12 +22,12 @@ cv_satellite_project/
 - Streamlit frontend for easy image upload & prediction
 - Fully containerized and GitHub-ready project structure
 
-## 🔧 Installation
+## Installation
 
-### 1Clone the repository:
+### Clone the repository:
 
 ```
-git clone https://github.com/your-username/cv_satellite_project.git
+git clone https://github.com/samar450/satellite-object-detection.git
 cd cv_satellite_project
 ```
 
